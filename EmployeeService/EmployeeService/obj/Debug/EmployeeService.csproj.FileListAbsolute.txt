@@ -1,0 +1,13 @@
+D:\epc\Ap-Sem3\Enterprise Application Programming\FinalExam\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+D:\epc\Ap-Sem3\Enterprise Application Programming\FinalExam\EmployeeService\EmployeeService\bin\EmployeeService.dll.config
+D:\epc\Ap-Sem3\Enterprise Application Programming\FinalExam\EmployeeService\EmployeeService\bin\EmployeeService.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\FinalExam\EmployeeService\EmployeeService\bin\EmployeeService.pdb
+D:\epc\Ap-Sem3\Enterprise Application Programming\FinalExam\EmployeeService\EmployeeService\bin\EntityFramework.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\FinalExam\EmployeeService\EmployeeService\bin\EntityFramework.SqlServer.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\FinalExam\EmployeeService\EmployeeService\bin\EntityFramework.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\FinalExam\EmployeeService\EmployeeService\bin\EntityFramework.SqlServer.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\FinalExam\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CopyComplete
+D:\epc\Ap-Sem3\Enterprise Application Programming\FinalExam\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\FinalExam\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb
+D:\epc\Ap-Sem3\Enterprise Application Programming\FinalExam\EmployeeService\EmployeeService\obj\Debug\EmployeeService.Migrations.Service.resources
+D:\epc\Ap-Sem3\Enterprise Application Programming\FinalExam\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.GenerateResource.cache
